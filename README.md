@@ -11,7 +11,7 @@ The challange and the JavaScript code is from the [Parallel Change Kata](https:/
 
 ## Your Task
 
-1) clean up the Field/ShoppingCart class
+1) clean up the Field/ShoppingCart class, check the relevant tests, understand the code.
 2) currently it is handling one price, *the goal is to handle multiple*.
 3) if you have time left, add handling product names, and a method to query the full shopping cart contents.
 
